@@ -10,7 +10,7 @@ const SectionSix = () => {
             one day<strong>.</strong>
           </h1>
           <p class="paragraph-11">
-            With AudienceLabs, you can optimize your digital ad spend and
+            With SmartAudienceAi, you can optimize your digital ad spend and
             increase conversions from outreach by retargeting fully identified
             and qualified leads only.
           </p>

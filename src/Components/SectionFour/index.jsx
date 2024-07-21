@@ -18,7 +18,7 @@ const SectionFour = () => {
             back into paying customers.
             <br />
             <br />
-            By combining AudienceLabs™️ with the power of{" "}
+            By combining SmartAudienceAi™️ with the power of{" "}
             <span className="text-span-3">AudienceID™ Pixel</span>, you'll now
             have the ability to validate and enrich the identity of prospects
             who land on your website - while uncovering their browsing activity

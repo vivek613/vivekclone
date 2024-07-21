@@ -22,7 +22,7 @@ const SectionSeven = () => {
           </h1>
           <p class="paragraph-15">
             Break free of the veiled garden of Google and Facebook. With
-            AudienceLabs, you'll be playing a game with no limits on where or
+            SmartAudienceAi, you'll be playing a game with no limits on where or
             when your audience can be found and contacted. Choose to target your
             marketing efforts on any channel imaginable. Own the targeting to
             communicate anytime, anywhere, about any topic, to anyone.

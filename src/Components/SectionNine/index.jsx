@@ -27,7 +27,7 @@ const SectionNine = () => {
             Imagine you had access to the entire addressable market. Now,
             imagine you could contact that market at the very beginning, middle,
             and end of their buyer's journey. Controlling the entire experience.
-            With AudienceLabs, you can.
+            With SmartAudienceAi, you can.
             <br />
             <br />
             Breakdown your prospects with thousands of data points and tracking
