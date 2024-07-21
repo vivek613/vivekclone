@@ -1,16 +1,17 @@
 import React from "react";
+import image from "../Assets/logo.png"
 
 const Header = () => {
   return (
     <div>
       <div aria-current="page" class="w-inline-block w--current">
         <img
-          src="src/Assets/logo.png"
+          src=" https://firebasestorage.googleapis.com/v0/b/test-aa862.appspot.com/o/logo.png?alt=media&token=24064835-dcdb-44c5-9f17-726d1ed24158"
           loading="lazy"
           width="450"
           sizes="(max-width: 479px) 40vw, 270px"
           alt=""
-          srcset="https://cdn.prod.website-files.com/6297ed89dab9bd032b44bb6b/6297ede44aa99c431d3a1ef2_New_Logo_Font_2-p-500.png 500w, https://cdn.prod.website-files.com/6297ed89dab9bd032b44bb6b/6297ede44aa99c431d3a1ef2_New_Logo_Font_2-p-800.png 800w, https://cdn.prod.website-files.com/6297ed89dab9bd032b44bb6b/6297ede44aa99c431d3a1ef2_New_Logo_Font_2.png 900w"
+          srcset="https://firebasestorage.googleapis.com/v0/b/test-aa862.appspot.com/o/logo.png?alt=media&token=24064835-dcdb-44c5-9f17-726d1ed24158"
           class="image-24"
         />
 
