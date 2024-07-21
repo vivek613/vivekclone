@@ -4830,7 +4830,7 @@ textarea.w-select {
 
 .section-36 {
   align-items: center;
-  height: 100vh;
+  /* height: 100vh; */
   display: block;
 }
 
@@ -4841,7 +4841,7 @@ textarea.w-select {
   position: relative;
   top: 50%;
   overflow: hidden;
-  transform: translate(0, -50%);
+  /* transform: translate(0, -50%); */
 }
 
 /* .mask {
@@ -6035,12 +6035,14 @@ textarea.w-select {
 
   .section-36 {
     padding-top: 0;
-    height: 140vh;
+    height: 115vh;
   }
 
   .slider {
     width: 100%;
-    margin-top: -245px;
+    /* margin-top: -245px; */
+    top: 0%;
+    transform: "";
   }
 
   .left-arrow {
