@@ -29,7 +29,7 @@ const SectionEight = () => {
           </h2>
           <p class="paragraph-19">
             Unlike adding another SaaS product to your stack that requires time
-            and resources to implement, AudienceLabs is designed to leverage
+            and resources to implement, SmartAudienceAi is designed to leverage
             both expert strategists and real AI to bolt directly into your
             current flow.
           </p>

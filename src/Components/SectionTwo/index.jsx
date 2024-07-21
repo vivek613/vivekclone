@@ -11,7 +11,7 @@ const SectionTwo = () => {
         <span class="text-span-2"></span>
       </h1>
       <p class="paragraph-63">
-        AudienceLabs gives you a complete view of your market, prospects, and
+        SmartAudienceAi gives you a complete view of your market, prospects, and
         customers. Reach and engage target audiences, build personalized buyer
         journeys, and act instantly on intent signals across the customer
         lifecycle.

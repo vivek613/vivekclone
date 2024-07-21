@@ -4844,11 +4844,11 @@ textarea.w-select {
   transform: translate(0, -50%);
 }
 
-.mask {
+/* .mask {
   color: rgba(0, 0, 0, 0);
   text-align: center;
   width: 50%;
-  /* margin-left: auto; */
+  margin-left: auto;
   margin-right: auto;
   display: block;
   overflow: visible;
@@ -4858,6 +4858,18 @@ textarea.w-select {
   text-align: center;
   cursor: grab;
   width: 100%;
+} */
+
+.mask {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px; /* Adjust the gap between grid items as needed */
+}
+
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .img {
@@ -6023,6 +6035,7 @@ textarea.w-select {
 
   .section-36 {
     padding-top: 0;
+    height: 140vh;
   }
 
   .slider {

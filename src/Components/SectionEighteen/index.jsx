@@ -14,7 +14,7 @@ const SectionEighteen = () => {
           More <span class="text-span-14">sales</span>
         </h1>
         <p class="paragraph-27">
-          Until now, AudienceLabs has been available exclusively for enterprise
+          Until now, SmartAudienceAi has been available exclusively for enterprise
           level companies within our lab. Today, after six years of validation,
           we're bringing it to those on the front lines of growth.
           <span class="text-span-15">

@@ -11,7 +11,7 @@ const SectionSeventeen = () => {
               <p class="paragraph-64">
                 Fully verified first party audiences imported into your
                 Facebook, Google, YouTube, or TikTok ad accounts<em>. </em>
-                AudienceLabs applies the power of AI to re-capture your lost
+                SmartAudienceAi applies the power of AI to re-capture your lost
                 traffic and turn them into paying customers.
               </p>
             </div>

@@ -13,7 +13,7 @@ const Hero = () => {
             <span className="text-span">customer acquisition</span>
           </h1>
           <h3 className="heading-23">
-            AudienceLabs brings big data technology with real Artificial
+            SmartAudienceAi brings big data technology with real Artificial
             Intelligence to improve your website customer identity &amp; online
             tracking. We collect more data and install systems that deliver more
             sales, higher conversion at a predictable lower price forever.
