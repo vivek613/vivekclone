@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div class="footer-copyright-center">Copyright © 2021 AudienceLabs</div>
+      <div class="footer-copyright-center">Copyright © 2021 SmartAudience ai</div>
     </section>
   );
 };

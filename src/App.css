@@ -4669,8 +4669,10 @@ textarea.w-select {
 .image-24 {
   text-align: left;
   max-width: 60%;
-  padding-top: 10px;
+  padding-top: 24px;
   padding-left: 65px;
+  font-size: 24px;
+  color: #ffffff;
 }
 
 .text-span-61 {
@@ -4846,7 +4848,7 @@ textarea.w-select {
   color: rgba(0, 0, 0, 0);
   text-align: center;
   width: 50%;
-  margin-left: auto;
+  /* margin-left: auto; */
   margin-right: auto;
   display: block;
   overflow: visible;
